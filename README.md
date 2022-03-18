@@ -1,3 +1,9 @@
+# Todo App React
+
+Compiled working todo app using React framework
+Next:
+  -implementation of persistence and user interface design
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
