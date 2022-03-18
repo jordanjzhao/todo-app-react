@@ -1,8 +1,7 @@
 # Todo App React
 
 Compiled working todo app using React framework
-Next:
-  -implementation of persistence and user interface design
+,Next: implementation of persistence and user interface design
 
 # Getting Started with Create React App
 
