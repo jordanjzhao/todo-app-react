@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todoItem :hover {
+  text-decoration: line-through;
+}
+
+.addTodoInput {
+  padding: 10px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
